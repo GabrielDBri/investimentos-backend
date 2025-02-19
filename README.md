@@ -51,7 +51,6 @@ docker-compose down
 ```
 
 ## Configure o IntelliJ(Ou sua IDE) para Rodar o Back-End
- Agora, rode o projeto normalmente:
 
 ## Abra o IntelliJ IDEA
  Vá até a classe ServerApplication.java
