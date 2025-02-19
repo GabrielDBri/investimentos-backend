@@ -51,13 +51,13 @@ docker-compose down
 ```
 
 ## Configure o IntelliJ(Ou sua IDE) para Rodar o Back-End
-# Agora, rode o projeto normalmente:
+ Agora, rode o projeto normalmente:
 
 ## Abra o IntelliJ IDEA
-# Vá até a classe ServerApplication.java
-# Clique no botão "Run" para iniciar o projeto
+ Vá até a classe ServerApplication.java
+ Clique no botão "Run" para iniciar o projeto
 
-# OU, se quiser rodar pelo terminal:
+ OU, se quiser rodar pelo terminal:
 ```sh
 mvn spring-boot:run
 
